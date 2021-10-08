@@ -19,9 +19,9 @@
 }
 
 h1 {
-	font-size: 60px;
-	font-style: italic;
-	color: #fff;
+	font-size: 70px;
+	font-family: 'Ephesis', cursive;
+	color: whitesmoke;
 	padding-left: 5%;
 	display: flex;
 }
