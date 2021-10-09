@@ -120,8 +120,14 @@ nav{
 	background-color: floralwhite;
 	font-size: larger;
 	font-style: inherit;
+	font-weight: bold;
 	text-align: center;
 	padding: 5px;
+}
+
+.btn ul li button:hover{
+	background-color: blueviolet;
+	color: whitesmoke;
 }
 
 .container {
